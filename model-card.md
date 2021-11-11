@@ -113,8 +113,3 @@ We also tested the performance of CLIP on gender, race and age classification us
 
 
 
-## Feedback
-
-### Where to send questions or comments about the model
-
-Please use [this Google Form](https://forms.gle/Uv7afRH5dvY34ZEs9)
